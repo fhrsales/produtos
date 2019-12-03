@@ -1,0 +1,458 @@
+{
+    "id": "Novo Estadão",
+    "nome": "",
+    "pessoas": "",
+    "children": [
+        {
+            "id": "Coração da Redação",
+            "nome": "",
+            "pessoas": "",
+            "children": [
+                {
+                    "id": "Editores-executivos de informação e audiência",
+                    "nome": "João Gabriel e David",
+                    "pessoas": 2,
+                    "children": [
+                        {
+                            "id": "Repórteres especiais",
+                            "nome": "Maklouf, Fucs, Godoy, Pablo e Mayrink",
+                            "pessoas": 5
+                        }
+                    ]
+                },
+                {
+                    "id": "Editor-executivo de planejamento",
+                    "nome": "Ricardo Grinbaum",
+                    "pessoas": 1
+                },
+                {
+                    "id": "Editora de planejamento",
+                    "nome": "Lu Garbin",
+                    "pessoas": 1
+                },
+                {
+                    "id": "Editor-executivo multimídia",
+                    "nome": "Fabio Sales",
+                    "pessoas": 1,
+                    "children": [
+                        {
+                            "id": "editores assitentes de fotografia",
+                            "nome": "Clayton e Sergião",
+                            "pessoas": 2,
+                            "children": [
+                                {
+                                    "id": "Equipe de fotógrafos",
+                                    "nome": "",
+                                    "pessoas": 11
+                                },
+                                {
+                                    "id": "Operadores de telefoto",
+                                    "nome": "",
+                                    "pessoas": 3
+                                }
+                            ]
+                        },
+                        {
+                            "id": "editora de infografia multimídia",
+                            "nome": "Regina Silva",
+                            "pessoas": 1,
+                            "children": [
+                                {
+                                    "id": "Equipe de infografia multimídia",
+                                    "nome": "William (editor assistente), Mirão, Diego, Ana, Mauro Girão, Marcos Müller e Gisele Oliveira",
+                                    "pessoas": 7
+                                },
+                                {
+                                    "id": "Equipe de designers multimídia",
+                                    "nome": "Adriano (editor assistente), Vitor, Denis, Danilo e Lucas",
+                                    "pessoas": 5
+                                },
+                                {
+                                    "id": "Equipe de Webdesingers",
+                                    "nome": "Vinicius (editor assistente), Bruno, Carlos, Rodrigo Menegat, Augusto (estagiário) e Mariana",
+                                    "pessoas": 6
+                                }
+                            ]
+                        },
+                        {
+                            "id": "Gerente de produtos digital",
+                            "nome": "",
+                            "pessoas": "",
+                            "children": [
+                                {
+                                    "id": "Project Manager",
+                                    "nome": "",
+                                    "pessoas": ""
+                                },
+                                {
+                                    "id": "Seo",
+                                    "nome": "",
+                                    "pessoas": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "Mesa 24/7",
+            "nome": "",
+            "pessoas": "",
+            "children": [
+                {
+                    "id": "Editor Digital 24/7",
+                    "nome": "Leo Cruz",
+                    "pessoas": 1,
+                    "children": [
+                        {
+                            "id": "Editores da home",
+                            "nome": "Vivi, Tati e Tonia",
+                            "pessoas": 3,
+                            "children": [
+                                {
+                                    "id": "Plantão da madrugada",
+                                    "nome": "",
+                                    "pessoas": 1
+                                },
+                                {
+                                    "id": "Equipe da home",
+                                    "nome": "",
+                                    "pessoas": 6
+                                }
+                            ]
+                        },
+                        {
+                            "id": "Editor de conteúdos premium / newsletter",
+                            "nome": "Ana Sacoman",
+                            "pessoas": 1
+                        },
+                        {
+                            "id": "Editor de comunidades",
+                            "nome": "Gabriel",
+                            "pessoas": 1,
+                            "children": [
+                                {
+                                    "id": "Analistas de redes sociais",
+                                    "nome": "",
+                                    "pessoas": 5
+                                }
+                            ]
+                        },
+                        {
+                            "id": "editor assistente de vídeo",
+                            "nome": "Everton Oliveira",
+                            "pessoas": 1,
+                            "children": [
+                                {
+                                    "id": "Equipe de videografistas",
+                                    "nome": "",
+                                    "pessoas": 5
+                                }
+                            ]
+                        },
+                        {
+                            "id": "Elo Rádio",
+                            "nome": "",
+                            "pessoas": 2
+                        },
+                        {
+                            "id": "Métricas",
+                            "nome": "",
+                            "pessoas": ""
+                        },
+                        {
+                            "id": "Acervo",
+                            "nome": "",
+                            "pessoas": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "Mesa J",
+            "nome": "",
+            "pessoas": "",
+            "children": [
+                {
+                    "id": "Editor coordenador",
+                    "nome": "Guilherme Evelin",
+                    "pessoas": 1,
+                    "children": [
+                        {
+                            "id": "Editor",
+                            "nome": "Rodrigo",
+                            "pessoas": 1
+                        },
+                        {
+                            "id": "Mesa da arte",
+                            "nome": "",
+                            "pessoas": "",
+                            "children": [
+                                {
+                                    "id": "Editora de arte",
+                                    "nome": "Viviane Jorge",
+                                    "pessoas": 1,
+                                    "children": [
+                                        {
+                                            "id": "Editor assistente de fotografia",
+                                            "nome": "Sergio Neves",
+                                            "pessoas": 1
+                                        },
+                                        {
+                                            "id": "Infografistas",
+                                            "nome": "Glauco (editor assistente) e Marcos Brito",
+                                            "pessoas": 2
+                                        },
+                                        {
+                                            "id": "Designers",
+                                            "nome": "Agnaldo, Nilson, Denise, Eloy, Bettiol, Anderson Nakamura",
+                                            "pessoas": 6
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "Redator da primeira página",
+                            "nome": "Baschera",
+                            "pessoas": 1
+                        },
+                        {
+                            "id": "Redatores",
+                            "nome": "",
+                            "pessoas": 12
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "Área temática Política",
+            "nome": "",
+            "pessoas": "",
+            "children": [
+                {
+                    "id": "Editor coordenador pol",
+                    "nome": "Eduardo Kattah",
+                    "pessoas": 1,
+                    "children": [
+                        {
+                            "id": "Coordenador de Política",
+                            "nome": "Marta",
+                            "pessoas": 1,
+                            "children": [
+                                {
+                                    "id": "Equipe de Política",
+                                    "nome": "",
+                                    "pessoas": ""
+                                }
+                            ]
+                        },
+                        {
+                            "id": "coordenador de Internacional",
+                            "nome": "",
+                            "pessoas": 1,
+                            "children": [
+                                {
+                                    "id": "Equipe de Internacional",
+                                    "nome": "",
+                                    "pessoas": ""
+                                }
+                            ]
+                        },
+                        {
+                            "id": "Estadão Dados",
+                            "nome": "",
+                            "pessoas": ""
+                        },
+                        {
+                            "id": "Elo BSB/Política",
+                            "nome": "",
+                            "pessoas": ""
+                        },
+                        {
+                            "id": "Elo RJ/Política",
+                            "nome": "",
+                            "pessoas": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "Área temática Economia",
+            "nome": "",
+            "pessoas": "",
+            "children": [
+                {
+                    "id": "Editor coordenador Eco",
+                    "nome": "Calais",
+                    "pessoas": 1,
+                    "children": [
+                        {
+                            "id": "Coordenador de Economia",
+                            "nome": "Katia",
+                            "pessoas": 1,
+                            "children": [
+                                {
+                                    "id": "Equipe de Economia",
+                                    "nome": "",
+                                    "pessoas": ""
+                                }
+                            ]
+                        },
+                        {
+                            "id": "Coordenador de Negócios",
+                            "nome": "Cris Barbieri",
+                            "pessoas": 1,
+                            "children": [
+                                {
+                                    "id": "Equipe de Negócios",
+                                    "nome": "",
+                                    "pessoas": ""
+                                },
+                                {
+                                    "id": "PME",
+                                    "nome": "Boni",
+                                    "pessoas": ""
+                                }
+                            ]
+                        },
+                        {
+                            "id": "Coordenador de Inovação (link e I)",
+                            "nome": "Bruno Capelas",
+                            "pessoas": 1,
+                            "children": [
+                                {
+                                    "id": "Equipe de inovação",
+                                    "nome": "",
+                                    "pessoas": ""
+                                }
+                            ]
+                        },
+                        {
+                            "id": "Elo BSB/Economia",
+                            "nome": "",
+                            "pessoas": ""
+                        },
+                        {
+                            "id": "Elo RJ/Economia",
+                            "nome": "",
+                            "pessoas": ""
+                        }
+                    ]
+                }
+
+            ]
+        },
+        {
+            "id": "Área temática São Paulo",
+            "nome": "",
+            "pessoas": "",
+            "children": [
+                {
+                    "id": "Editor coordenador São Paulo",
+                    "nome": "Daniel Fernandez",
+                    "pessoas": 1,
+                    "children": [
+                        {
+                            "id": "Coordenador de Metrópole",
+                            "nome": "Bia",
+                            "pessoas": 1,
+                            "children": [
+                                {
+                                    "id": "Equipe de Metrópole",
+                                    "nome": "",
+                                    "pessoas": ""
+                                }
+                            ]
+                        },
+                        {
+                            "id": "Coordenador de Cultura",
+                            "nome": "Bira",
+                            "pessoas": 1,
+                            "children": [
+                                {
+                                    "id": "Equipe de Cultura",
+                                    "nome": "",
+                                    "pessoas": ""
+                                }
+                            ]
+                        },
+                        {
+                            "id": "Coordenador de Esportes",
+                            "nome": "Morelli",
+                            "pessoas": 1,
+                            "children": [
+                                {
+                                    "id": "Equipe de Esportes",
+                                    "nome": "",
+                                    "pessoas": ""
+                                }
+                            ]
+                        },
+                        {
+                            "id": "Coordenador de verticais",
+                            "nome": "Tião",
+                            "pessoas": 1,
+                            "children": [
+                                {
+                                    "id": "Equipe de verticais",
+                                    "pessoas": "",
+                                    "children": [
+                                        {
+                                            "id": "Viagem",
+                                            "pessoas": ""
+                                        },
+                                        {
+                                            "id": "Paladar",
+                                            "pessoas": ""
+                                        },
+                                        {
+                                            "id": "Casa",
+                                            "pessoas": ""
+                                        },
+                                        {
+                                            "id": "Divirta-se",
+                                            "pessoas": ""
+                                        },
+                                        {
+                                            "id": "Jornal do Carro",
+                                            "pessoas": ""
+                                        },
+                                        {
+                                            "id": "Classificados",
+                                            "pessoas": ""
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "E+",
+                            "nome": "",
+                            "pessoas": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "* Fausto Macedo"
+        },
+        {
+            "id": "* Sonia Racy"
+        },
+        {
+            "id": "* Celso Ming"
+        },
+        {
+            "id": "* Bombig"
+        },
+        {
+            "id": "* Blog do Fausto"
+        }
+    ]
+}
