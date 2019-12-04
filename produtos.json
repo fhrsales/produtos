@@ -1,458 +1,808 @@
 {
-    "id": "Novo Estadão",
-    "nome": "",
-    "pessoas": "",
-    "children": [
-        {
-            "id": "Coração da Redação",
-            "nome": "",
-            "pessoas": "",
-            "children": [
-                {
-                    "id": "Editores-executivos de informação e audiência",
-                    "nome": "João Gabriel e David",
-                    "pessoas": 2,
-                    "children": [
-                        {
-                            "id": "Repórteres especiais",
-                            "nome": "Maklouf, Fucs, Godoy, Pablo e Mayrink",
-                            "pessoas": 5
-                        }
-                    ]
-                },
-                {
-                    "id": "Editor-executivo de planejamento",
-                    "nome": "Ricardo Grinbaum",
-                    "pessoas": 1
-                },
-                {
-                    "id": "Editora de planejamento",
-                    "nome": "Lu Garbin",
-                    "pessoas": 1
-                },
-                {
-                    "id": "Editor-executivo multimídia",
-                    "nome": "Fabio Sales",
-                    "pessoas": 1,
-                    "children": [
-                        {
-                            "id": "editores assitentes de fotografia",
-                            "nome": "Clayton e Sergião",
-                            "pessoas": 2,
-                            "children": [
-                                {
-                                    "id": "Equipe de fotógrafos",
-                                    "nome": "",
-                                    "pessoas": 11
-                                },
-                                {
-                                    "id": "Operadores de telefoto",
-                                    "nome": "",
-                                    "pessoas": 3
-                                }
-                            ]
-                        },
-                        {
-                            "id": "editora de infografia multimídia",
-                            "nome": "Regina Silva",
-                            "pessoas": 1,
-                            "children": [
-                                {
-                                    "id": "Equipe de infografia multimídia",
-                                    "nome": "William (editor assistente), Mirão, Diego, Ana, Mauro Girão, Marcos Müller e Gisele Oliveira",
-                                    "pessoas": 7
-                                },
-                                {
-                                    "id": "Equipe de designers multimídia",
-                                    "nome": "Adriano (editor assistente), Vitor, Denis, Danilo e Lucas",
-                                    "pessoas": 5
-                                },
-                                {
-                                    "id": "Equipe de Webdesingers",
-                                    "nome": "Vinicius (editor assistente), Bruno, Carlos, Rodrigo Menegat, Augusto (estagiário) e Mariana",
-                                    "pessoas": 6
-                                }
-                            ]
-                        },
-                        {
-                            "id": "Gerente de produtos digital",
-                            "nome": "",
-                            "pessoas": "",
-                            "children": [
-                                {
-                                    "id": "Project Manager",
-                                    "nome": "",
-                                    "pessoas": ""
-                                },
-                                {
-                                    "id": "Seo",
-                                    "nome": "",
-                                    "pessoas": ""
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "Mesa 24/7",
-            "nome": "",
-            "pessoas": "",
-            "children": [
-                {
-                    "id": "Editor Digital 24/7",
-                    "nome": "Leo Cruz",
-                    "pessoas": 1,
-                    "children": [
-                        {
-                            "id": "Editores da home",
-                            "nome": "Vivi, Tati e Tonia",
-                            "pessoas": 3,
-                            "children": [
-                                {
-                                    "id": "Plantão da madrugada",
-                                    "nome": "",
-                                    "pessoas": 1
-                                },
-                                {
-                                    "id": "Equipe da home",
-                                    "nome": "",
-                                    "pessoas": 6
-                                }
-                            ]
-                        },
-                        {
-                            "id": "Editor de conteúdos premium / newsletter",
-                            "nome": "Ana Sacoman",
-                            "pessoas": 1
-                        },
-                        {
-                            "id": "Editor de comunidades",
-                            "nome": "Gabriel",
-                            "pessoas": 1,
-                            "children": [
-                                {
-                                    "id": "Analistas de redes sociais",
-                                    "nome": "",
-                                    "pessoas": 5
-                                }
-                            ]
-                        },
-                        {
-                            "id": "editor assistente de vídeo",
-                            "nome": "Everton Oliveira",
-                            "pessoas": 1,
-                            "children": [
-                                {
-                                    "id": "Equipe de videografistas",
-                                    "nome": "",
-                                    "pessoas": 5
-                                }
-                            ]
-                        },
-                        {
-                            "id": "Elo Rádio",
-                            "nome": "",
-                            "pessoas": 2
-                        },
-                        {
-                            "id": "Métricas",
-                            "nome": "",
-                            "pessoas": ""
-                        },
-                        {
-                            "id": "Acervo",
-                            "nome": "",
-                            "pessoas": ""
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "Mesa J",
-            "nome": "",
-            "pessoas": "",
-            "children": [
-                {
-                    "id": "Editor coordenador",
-                    "nome": "Guilherme Evelin",
-                    "pessoas": 1,
-                    "children": [
-                        {
-                            "id": "Editor",
-                            "nome": "Rodrigo",
-                            "pessoas": 1
-                        },
-                        {
-                            "id": "Mesa da arte",
-                            "nome": "",
-                            "pessoas": "",
-                            "children": [
-                                {
-                                    "id": "Editora de arte",
-                                    "nome": "Viviane Jorge",
-                                    "pessoas": 1,
-                                    "children": [
-                                        {
-                                            "id": "Editor assistente de fotografia",
-                                            "nome": "Sergio Neves",
-                                            "pessoas": 1
-                                        },
-                                        {
-                                            "id": "Infografistas",
-                                            "nome": "Glauco (editor assistente) e Marcos Brito",
-                                            "pessoas": 2
-                                        },
-                                        {
-                                            "id": "Designers",
-                                            "nome": "Agnaldo, Nilson, Denise, Eloy, Bettiol, Anderson Nakamura",
-                                            "pessoas": 6
-                                        }
-                                    ]
-                                }
-                            ]
-                        },
-                        {
-                            "id": "Redator da primeira página",
-                            "nome": "Baschera",
-                            "pessoas": 1
-                        },
-                        {
-                            "id": "Redatores",
-                            "nome": "",
-                            "pessoas": 12
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "Área temática Política",
-            "nome": "",
-            "pessoas": "",
-            "children": [
-                {
-                    "id": "Editor coordenador pol",
-                    "nome": "Eduardo Kattah",
-                    "pessoas": 1,
-                    "children": [
-                        {
-                            "id": "Coordenador de Política",
-                            "nome": "Marta",
-                            "pessoas": 1,
-                            "children": [
-                                {
-                                    "id": "Equipe de Política",
-                                    "nome": "",
-                                    "pessoas": ""
-                                }
-                            ]
-                        },
-                        {
-                            "id": "coordenador de Internacional",
-                            "nome": "",
-                            "pessoas": 1,
-                            "children": [
-                                {
-                                    "id": "Equipe de Internacional",
-                                    "nome": "",
-                                    "pessoas": ""
-                                }
-                            ]
-                        },
-                        {
-                            "id": "Estadão Dados",
-                            "nome": "",
-                            "pessoas": ""
-                        },
-                        {
-                            "id": "Elo BSB/Política",
-                            "nome": "",
-                            "pessoas": ""
-                        },
-                        {
-                            "id": "Elo RJ/Política",
-                            "nome": "",
-                            "pessoas": ""
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "Área temática Economia",
-            "nome": "",
-            "pessoas": "",
-            "children": [
-                {
-                    "id": "Editor coordenador Eco",
-                    "nome": "Calais",
-                    "pessoas": 1,
-                    "children": [
-                        {
-                            "id": "Coordenador de Economia",
-                            "nome": "Katia",
-                            "pessoas": 1,
-                            "children": [
-                                {
-                                    "id": "Equipe de Economia",
-                                    "nome": "",
-                                    "pessoas": ""
-                                }
-                            ]
-                        },
-                        {
-                            "id": "Coordenador de Negócios",
-                            "nome": "Cris Barbieri",
-                            "pessoas": 1,
-                            "children": [
-                                {
-                                    "id": "Equipe de Negócios",
-                                    "nome": "",
-                                    "pessoas": ""
-                                },
-                                {
-                                    "id": "PME",
-                                    "nome": "Boni",
-                                    "pessoas": ""
-                                }
-                            ]
-                        },
-                        {
-                            "id": "Coordenador de Inovação (link e I)",
-                            "nome": "Bruno Capelas",
-                            "pessoas": 1,
-                            "children": [
-                                {
-                                    "id": "Equipe de inovação",
-                                    "nome": "",
-                                    "pessoas": ""
-                                }
-                            ]
-                        },
-                        {
-                            "id": "Elo BSB/Economia",
-                            "nome": "",
-                            "pessoas": ""
-                        },
-                        {
-                            "id": "Elo RJ/Economia",
-                            "nome": "",
-                            "pessoas": ""
-                        }
-                    ]
-                }
-
-            ]
-        },
-        {
-            "id": "Área temática São Paulo",
-            "nome": "",
-            "pessoas": "",
-            "children": [
-                {
-                    "id": "Editor coordenador São Paulo",
-                    "nome": "Daniel Fernandez",
-                    "pessoas": 1,
-                    "children": [
-                        {
-                            "id": "Coordenador de Metrópole",
-                            "nome": "Bia",
-                            "pessoas": 1,
-                            "children": [
-                                {
-                                    "id": "Equipe de Metrópole",
-                                    "nome": "",
-                                    "pessoas": ""
-                                }
-                            ]
-                        },
-                        {
-                            "id": "Coordenador de Cultura",
-                            "nome": "Bira",
-                            "pessoas": 1,
-                            "children": [
-                                {
-                                    "id": "Equipe de Cultura",
-                                    "nome": "",
-                                    "pessoas": ""
-                                }
-                            ]
-                        },
-                        {
-                            "id": "Coordenador de Esportes",
-                            "nome": "Morelli",
-                            "pessoas": 1,
-                            "children": [
-                                {
-                                    "id": "Equipe de Esportes",
-                                    "nome": "",
-                                    "pessoas": ""
-                                }
-                            ]
-                        },
-                        {
-                            "id": "Coordenador de verticais",
-                            "nome": "Tião",
-                            "pessoas": 1,
-                            "children": [
-                                {
-                                    "id": "Equipe de verticais",
-                                    "pessoas": "",
-                                    "children": [
-                                        {
-                                            "id": "Viagem",
-                                            "pessoas": ""
-                                        },
-                                        {
-                                            "id": "Paladar",
-                                            "pessoas": ""
-                                        },
-                                        {
-                                            "id": "Casa",
-                                            "pessoas": ""
-                                        },
-                                        {
-                                            "id": "Divirta-se",
-                                            "pessoas": ""
-                                        },
-                                        {
-                                            "id": "Jornal do Carro",
-                                            "pessoas": ""
-                                        },
-                                        {
-                                            "id": "Classificados",
-                                            "pessoas": ""
-                                        }
-                                    ]
-                                }
-                            ]
-                        },
-                        {
-                            "id": "E+",
-                            "nome": "",
-                            "pessoas": ""
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "* Fausto Macedo"
-        },
-        {
-            "id": "* Sonia Racy"
-        },
-        {
-            "id": "* Celso Ming"
-        },
-        {
-            "id": "* Bombig"
-        },
-        {
-            "id": "* Blog do Fausto"
-        }
-    ]
+	"id": "grupoestado",
+	"name": "Grupo Estado",
+	"children": [
+		{
+			"id": "estadao",
+			"name": "Estadão",
+			"children": [
+				{
+					"id": "impresso",
+					"name": "Impresso",
+					"children": [
+						{
+							"id": "impresso_opiniao",
+							"name": "Opinião"
+						},
+						{
+							"id": "impresso_politica",
+							"name": "Política",
+							"children": [
+								{
+									"id": "eliane_catanhede",
+									"name": "Eliane Cantanhêde"
+								},
+								{
+									"id": "fernando_gabeira",
+									"name": "Fernando Gabeira"
+								},
+								{
+									"id": "joao_domingos",
+									"name": "João Domingos"
+								},
+								{
+									"id": "vera_magalhaes",
+									"name": "Vera Magalhães"
+								},
+								{
+									"id": "william_waack",
+									"name": "William Waack"
+								}
+							]
+						},
+						{
+							"id": "impresso_economia&negocios",
+							"name": "Economia & Negócios",
+							"children": [
+								{
+									"id": "adriana_fernandes",
+									"name": "Adriana Fernandes"
+								},
+								{
+									"id": "adriano_pires",
+									"name": "Adriano Pires"
+								},
+								{
+									"id": "afonso_celso_pastore",
+									"name": "Afonso Celso Pastore"
+								},
+								{
+									"id": "albert_fishlow",
+									"name": "Albert Fishlow"
+								},
+								{
+									"id": "ana_carla_abrao",
+									"name": "Ana Carla Abrão"
+								},
+								{
+									"id": "celso_ming",
+									"name": "Celso Ming"
+								},
+								{
+									"id": "cida_damasco",
+									"name": "Cida Damasco"
+								},
+								{
+									"id": "claudio_adilson_gonzalves",
+									"name": "Claudio Adilson Gonzalves"
+								},
+								{
+									"id": "elena_landau",
+									"name": "Elena Landau"
+								},
+								{
+									"id": "fabio_alves",
+									"name": "Fabio Alves"
+								},
+								{
+									"id": "gustavo_franco",
+									"name": "Gustavo Franco"
+								},
+								{
+									"id": "manoel_lemos",
+									"name": "Manoel Lemos"
+								},
+								{
+									"id": "mauricio_benvenutti",
+									"name": "Maurício Benvenutti"
+								},
+								{
+									"id": "monica_de_bolle",
+									"name": "Monica de Bolle"
+								},
+								{
+									"id": "paulo_leme",
+									"name": "Paulo Leme"
+								},
+								{
+									"id": "rodrigo_rodrigues",
+									"name": "Rodrigo Rodrigues (Agro)"
+								},
+								{
+									"id": "zeina_latif",
+									"name": "Zeina Latif"
+								}
+							]
+						},
+						{
+							"id": "impresso_internacional",
+							"name": "Internacional",
+							"children": [
+								{
+									"id": "antonio_penteado_mendonca",
+									"name": "Antonio Penteado Mendonça"
+								},
+								{
+									"id": "economist_em_portugues",
+									"name": "Economist em Português"
+								},
+								{
+									"id": "fareed_zakaria",
+									"name": "Fareed Zakaria"
+								},
+								{
+									"id": "gilles_lapouge",
+									"name": "Gilles Lapouge"
+								},
+								{
+									"id": "helio_gurovitz",
+									"name": "Helio Gurovitz"
+								},
+								{
+									"id": "lourival_sant'anna",
+									"name": "Lourival Sant'anna"
+								},
+								{
+									"id": "mario_vargas_llosa",
+									"name": "Mario Vargas Llosa"
+								},
+								{
+									"id": "moises_naim",
+									"name": "Moises Naim"
+								}
+							]
+						},
+						{
+							"id": "impresso_metropole",
+							"name": "Metrópole",
+							"children": [
+								{
+									"id": "daniel_martins_de_barros",
+									"name": "Daniel Martins de Barros (Saúde)"
+								},
+								{
+									"id": "fernando_reinach",
+									"name": "Fernando Reinach (Ciência)"
+								},
+								{
+									"id": "renata_cafardo",
+									"name": "Renata Cafardo (Educação)"
+								},
+								{
+									"id": "camila_farani",
+									"name": "Camila Farani"
+								},
+								{
+									"id": "demi_getschko",
+									"name": "Demi Getschko"
+								},
+								{
+									"id": "fabio_gallo",
+									"name": "Fabio Gallo (Seu Dinheiro)"
+								},
+								{
+									"id": "guy_perelmuter",
+									"name": "Guy Perelmuter"
+								},
+								{
+									"id": "pedro_doria",
+									"name": "Pedro Doria"
+								}
+							]
+						},
+						{
+							"id": "impresso_esportes",
+							"name": "Esportes",
+							"children": [
+								{
+									"id": "mauro_cesar_pereira",
+									"name": "Mauro Cesar Pereira"
+								},
+								{
+									"id": "robson_morelli",
+									"name": "Robson Morelli"
+								},
+								{
+									"id": "ugo_giorgetti",
+									"name": "Ugo Giorgetti"
+								}
+							]
+						},
+						{
+							"id": "impresso_caderno2",
+							"name": "Caderno2",
+							"children": [
+								{
+									"id": "humberto_werneck",
+									"name": "Humberto Werneck"
+								},
+								{
+									"id": "ignacio_de_loyola_brandao",
+									"name": "Ignácio de Loyola Brandão"
+								},
+								{
+									"id": "leandro_karnal",
+									"name": "Leandro Karnal"
+								},
+								{
+									"id": "marcelo_rubens_paiva",
+									"name": "Marcelo Rubens Paiva"
+								},
+								{
+									"id": "roberto_damatta",
+									"name": "Roberto DaMatta"
+								},
+								{
+									"id": "sergio_augusto",
+									"name": "Sergio Augusto"
+								},
+								{
+									"id": "verissimo",
+									"name": "Veríssimo"
+								}
+							]
+						},
+						{
+							"id": "impresso_viagem",
+							"name": "Viagem"
+						},
+						{
+							"id": "impresso_jornal_do_carro",
+							"name": "Jornal do Carro"
+						},
+						{
+							"id": "impresso_paladar",
+							"name": "Paladar"
+						},
+						{
+							"id": "impresso_divirta-se",
+							"name": "Divirta-se"
+						},
+						{
+							"id": "impresso_casa",
+							"name": "Casa"
+						},
+						{
+							"id": "impresso_alias",
+							"name": "Aliás"
+						}
+					]
+				},
+				{
+					"id": "web",
+					"name": "Web",
+					"children": [
+						{
+							"id": "principais",
+							"name": " ",
+							"children": [
+								{
+									"id": "web_opiniao",
+									"name": "Opinião"
+								},
+								{
+									"id": "web_politica",
+									"name": "Política"
+								},
+								{
+									"id": "web_economia&negocios",
+									"name": "Economia & Negócios"
+								},
+								{
+									"id": "web_brasil",
+									"name": "Brasil"
+								},
+								{
+									"id": "web_internacional",
+									"name": "Internacional"
+								},
+								{
+									"id": "web_esportes",
+									"name": "Esportes"
+								},
+								{
+									"id": "web_cultura",
+									"name": "Cultura"
+								},
+								{
+									"id": "web_ultimas",
+									"name": "Últimas"
+								},
+								{
+									"id": "web_mais_recentes",
+									"name": "Mais recentes"
+								},
+								{
+									"id": "web_mais_lidas",
+									"name": "Mais lidas"
+								}
+							]
+						},
+						{
+							"id": "subhomes",
+							"name": " ",
+							"children": [
+								{
+									"id": "subhome_radio_eldorado",
+									"name": "Rádio Eldorado"
+								},
+								{
+									"id": "subhome_educacao",
+									"name": "Educação"
+								},
+								{
+									"id": "subhome_sustentabilidade",
+									"name": "Sustentabilidade"
+								},
+								{
+									"id": "subhome_sao_paulo",
+									"name": "São Paulo"
+								},
+								{
+									"id": "subhome_ciencia",
+									"name": "Ciência"
+								},
+								{
+									"id": "subhome_saude",
+									"name": "Saúde"
+								},
+								{
+									"id": "subhome_tudo_sobre",
+									"name": "Tudo Sobre"
+								},
+								{
+									"id": "subhome_blogs",
+									"name": "Blogs"
+								},
+								{
+									"id": "subhome_tv_estadao",
+									"name": "TV Estadão"
+								},
+								{
+									"id": "subhome_infograficos",
+									"name": "Infográficos"
+								},
+								{
+									"id": "subhome_voce_no_estadao",
+									"name": "Você no Estadão"
+								},
+								{
+									"id": "subhome_ao_vivo",
+									"name": "Ao Vivo"
+								},
+								{
+									"id": "subhome_colunas",
+									"name": "Colunas"
+								},
+								{
+									"id": "subhome_aplicativos",
+									"name": "Aplicativos"
+								},
+								{
+									"id": "subhome_fotos",
+									"name": "Fotos"
+								},
+								{
+									"id": "subhome_estadao_dados",
+									"name": "Estadão Dados"
+								},
+								{
+									"id": "subhome_horoscopo",
+									"name": "Horóscopo"
+								},
+								{
+									"id": "subhome_tempo",
+									"name": "Tempo"
+								},
+								{
+									"id": "subhome_newsletter",
+									"name": "Newsletter"
+								},
+								{
+									"id": "subhome_sudoku",
+									"name": "Sudoku"
+								},
+								{
+									"id": "subhome_loterias",
+									"name": "Loterias"
+								},
+								{
+									"id": "subhome_transito",
+									"name": "Trânsito"
+								},
+								{
+									"id": "subhome_quadrinhos",
+									"name": "Quadrinhos"
+								},
+								{
+									"id": "subhome_cruzadas",
+									"name": "Cruzadas"
+								},
+								{
+									"id": "subhome_moving",
+									"name": "Moving"
+								},
+								{
+									"id": "subhome_broadcast_politico",
+									"name": "Broadcast Político"
+								},
+								{
+									"id": "subhome_cupons",
+									"name": "Cupons"
+								},
+								{
+									"id": "subhome_estradao",
+									"name": "Estradão"
+								},
+								{
+									"id": "subhome_broadcast",
+									"name": "Broadcast"
+								},
+								{
+									"id": "subhome_economico",
+									"name": "Econômico"
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "apps",
+					"name": "Apps",
+					"children": [
+						{
+							"id": "tablet",
+							"name": "Tablet",
+							"children": [
+								{
+									"id": "tablet_estadao_favoritos",
+									"name": "Estadão Favoritos"
+								},
+								{
+									"id": "tablet_estadao_tablet",
+									"name": "Estadão Tablet"
+								},
+								{
+									"id": "tablet_estadao_noite",
+									"name": "Estadão Noite"
+								},
+								{
+									"id": "tablet_olhar_estadao",
+									"name": "Olhar Estadão"
+								}
+							]
+						},
+						{
+							"id": "mobile",
+							"name": "Mobile",
+							"children": [
+								{
+									"id": "mobile_radio_eldorado",
+									"name": "Rádio Eldorado"
+								},
+								{
+									"id": "mobile_ilocal",
+									"name": "iLocal BR Mobile"
+								},
+								{
+									"id": "mobile_broadcast",
+									"name": "Broadcast"
+								},
+								{
+									"id": "mobile_broadcast_agro",
+									"name": "Broadcast Agro"
+								},
+								{
+									"id": "mobile_broadcast_politico",
+									"name": "Broadcast Político"
+								},
+								{
+									"id": "mobile_voce_no_estadao",
+									"name": "Você no Estadão"
+								},
+								{
+									"id": "mobile_estadao_jornal_digital",
+									"name": "Estadão Jornal Digital"
+								},
+								{
+									"id": "mobile_paladar",
+									"name": "Paladar"
+								},
+								{
+									"id": "mobile_estadao_app",
+									"name": "Estadão App"
+								},
+								{
+									"id": "mobile_estadao_movel",
+									"name": "Estadão Móvel"
+								},
+								{
+									"id": "mobile_estadao_economia&negocios",
+									"name": "Estadão Economia & Negócios"
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "podcast",
+					"name": "Podcast",
+					"children": [
+						{
+							"id": "podcast_eldorado_expresso",
+							"name": "Eldorado Expresso"
+						},
+						{
+							"id": "podcast_estadao_legis_ativo",
+							"name": "Estadão Legis-Ativo"
+						},
+						{
+							"id": "podcast_estadao_esporte_clube",
+							"name": "Estadão Esporte Clube"
+						},
+						{
+							"id": "podcast_colunistas_eldorado_estadao",
+							"name": "Colunistas Eldorado Estadão"
+						},
+						{
+							"id": "podcast_estadao_santos",
+							"name": "Estadão Santos"
+						},
+						{
+							"id": "podcast_por_ai",
+							"name": "Por Aí"
+						},
+						{
+							"id": "podcast_estadao_palmeiras",
+							"name": "Estadão Palmeiras"
+						},
+						{
+							"id": "podcast_editorial_estadao",
+							"name": "Editorial Estadão"
+						},
+						{
+							"id": "podcast_estadao_noticias",
+							"name": "Estadão Notícias"
+						},
+						{
+							"id": "podcast_estadao_corinthians",
+							"name": "Estadão Corinthians"
+						},
+						{
+							"id": "podcast_estadao",
+							"name": "Estadão"
+						},
+						{
+							"id": "podcast_conexao_estadao",
+							"name": "Conexão Estadão"
+						},
+						{
+							"id": "podcast_mentalistas_estadao",
+							"name": "Mentalistas Estadão"
+						},
+						{
+							"id": "podcast_seu_bolso_estadao",
+							"name": "Seu Bolso Estadão"
+						}
+					]
+				},
+				{
+					"id": "redes_sociais_estadao",
+					"name": "Redes Sociais",
+					"children": [
+						{
+							"id": "redes_sociais_estadao_facebook_Estadão",
+							"name": "Facebook: Estadão"
+						},
+						{
+							"id": "redes_sociais_estadao_instagram_@estadao",
+							"name": "Instagram: @estadao"
+						},
+						{
+							"id": "redes_sociais_estadao_youtube_Estadão",
+							"name": "Youtube: Estadão"
+						},
+						{
+							"id": "redes_sociais_estadao_twitter",
+							"name": "Twitter",
+							"children": [
+								{
+									"id": "redes_sociais_estadao_twitter@Estadao",
+									"name": "@Estadao"
+								},
+								{
+									"id": "redes_sociais_estadao_twitter@Paladar",
+									"name": "@Paladar"
+								},
+								{
+									"id": "redes_sociais_estadao_twitter@Emais_Estadao",
+									"name": "@Emais_Estadao"
+								},
+								{
+									"id": "redes_sociais_estadao_twitter@estadaoverifica",
+									"name": "@estadaoverifica"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "agencia_estado",
+			"name": "Agência Estado",
+			"children": [
+				{
+					"id": "agencia_estado_produtos",
+					"name": " ",
+					"children": [
+						{
+							"id": "agencia_estado_produtos_broadcast+",
+							"name": "Broadcast+"
+						},
+						{
+							"id": "agencia_estado_produtos_broadcast_agro",
+							"name": "Broadcast Agro"
+						},
+						{
+							"id": "agencia_estado_produtos_broadcast_político",
+							"name": "Broadcast Político"
+						},
+						{
+							"id": "agencia_estado_produtos_trading_news",
+							"name": "Trading News"
+						},
+						{
+							"id": "agencia_estado_produtos_www.broadcast.com.br",
+							"name": "www.broadcast.com.br"
+						}
+					]
+				},
+				{
+					"id": "agencia_estado_redes_sociais",
+					"name": "Redes Sociais",
+					"children": [
+						{
+							"id": "agencia_estado_redes_sociais_Twitter@agenciaestado+",
+							"name": "Twitter: @agenciaestado+"
+						},
+						{
+							"id": "agencia_estado_redes_sociais_Facebook:Agência Estado – Broadcast",
+							"name": "Facebook: Agência Estado – Broadcast"
+						},
+						{
+							"id": "agencia_estado_redes_sociais_linkedin: Agência Estado",
+							"name": "Linkedin: Agência Estado"
+						},
+						{
+							"id": "agencia_estado_redes_sociais_instagram: @aebroadcast",
+							"name": "Instagram: @aebroadcast"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "radio_eldorado",
+			"name": "Rádio Eldorado",
+			"children": [
+				{
+					"id": "radio_eldorado_a_hora_da_vitrola",
+					"name": "A Hora da Vitrola"
+				},
+				{
+					"id": "radio_eldorado_a_moda_da_cidade",
+					"name": "A Moda da Cidade"
+				},
+				{
+					"id": "radio_eldorado_black_to_black",
+					"name": "Black to Black"
+				},
+				{
+					"id": "radio_eldorado_canta_brasil",
+					"name": "Canta Brasil"
+				},
+				{
+					"id": "radio_eldorado_chocolate_quente",
+					"name": "Chocolate Quente"
+				},
+				{
+					"id": "radio_eldorado_cine_drops",
+					"name": "Cine Drops"
+				},
+				{
+					"id": "radio_eldorado_cronica_da_cidade",
+					"name": "Crônica da Cidade"
+				},
+				{
+					"id": "radio_eldorado_diversao_eldorado",
+					"name": "Diversão Eldorado"
+				},
+				{
+					"id": "radio_eldorado_edicao_limitada",
+					"name": "Edição Limitada"
+				},
+				{
+					"id": "radio_eldorado_eldorado_expresso",
+					"name": "Eldorado Expresso"
+				},
+				{
+					"id": "radio_eldorado_eldorado_no_ar",
+					"name": "Eldorado no Ar"
+				},
+				{
+					"id": "radio_eldorado_especiais_eldorado",
+					"name": "Especiais Eldorado"
+				},
+				{
+					"id": "radio_eldorado_fim_de_tarde",
+					"name": "Fim de Tarde"
+				},
+				{
+					"id": "radio_eldorado_jornal_eldorado",
+					"name": "Jornal Eldorado"
+				},
+				{
+					"id": "radio_eldorado_madrugada_eldorado",
+					"name": "Madrugada Eldorado"
+				},
+				{
+					"id": "radio_eldorado_marcas_e_consumidores",
+					"name": "Marcas e Consumidores"
+				},
+				{
+					"id": "radio_eldorado_minha_cancao",
+					"name": "Minha Canção"
+				},
+				{
+					"id": "radio_eldorado_mundo_digital",
+					"name": "Mundo Digital"
+				},
+				{
+					"id": "radio_eldorado_mae_sem_manual",
+					"name": "Mãe sem Manual"
+				},
+				{
+					"id": "radio_eldorado_musicas_praieiras",
+					"name": "Músicas Praieiras"
+				},
+				{
+					"id": "radio_eldorado_navega",
+					"name": "Navega"
+				},
+				{
+					"id": "radio_eldorado_pedro_em_serie",
+					"name": "Pedro em Série"
+				},
+				{
+					"id": "radio_eldorado_por_a",
+					"name": "Por A"
+				},
+				{
+					"id": "radio_eldorado_qualidade_de_vida",
+					"name": "Qualidade de Vida"
+				},
+				{
+					"id": "radio_eldorado_quem_somos_nos",
+					"name": "Quem Somos Nós?"
+				},
+				{
+					"id": "radio_eldorado_reserva_eldorado",
+					"name": "Reserva Eldorado"
+				},
+				{
+					"id": "radio_eldorado_som_a_pino",
+					"name": "Som a Pino"
+				},
+				{
+					"id": "radio_eldorado_start",
+					"name": "Start"
+				},
+				{
+					"id": "radio_eldorado_trip_fm",
+					"name": "Trip FM"
+				}
+			]
+		}
+	]
 }
