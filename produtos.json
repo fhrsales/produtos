@@ -527,282 +527,255 @@
 				{
 					"id": "podcast",
 					"name": "Podcast",
-					"children": [
-						{
-							"id": "podcast_eldorado_expresso",
-							"name": "Eldorado Expresso"
+					{
+						"id": "podcast_estadao_noticias",
+						"name": "Estadão Notícias"
+					},
+
+					{
+						"id": "podcast_eldorado_expresso",
+						"name": "Eldorado Expressoo"
+					},
+					{
+						"id": "podcast_eldorado_colunistas_estadao",
+						"name": "Colunistas Eldorado Estadão"
+					},
+					{
+						"id": "podcast_eldorado_estadao_esporte_clube",
+						"name": "Estadão Esporte Clube"
+					},
+					{
+						"id": "podcast_eldorado_editorial_estadao",
+						"name": "Editorial Estadão"
+					},
+					{
+						"id": "podcast_eldorado_noticia_no_seu_tempo",
+						"name": "Notícia No Seu Tempo"
+					},
+					{
+						"id": "podcast_eldorado_por_ai",
+						"name": "Por Aí"
+					},
+					{
+						"id": "podcast_eldorado_legis_ativo",
+						"name": "Legis-Ativo"
+					},
+					{
+						"id": "podcast_eliane_cantanede_responde",
+						"name": "Eliane Cantanhêde Responde"
+					},
+					{
+						"id": "podcast_eldorado_se_liga_no_vestibular",
+						"name": "Se Liga no Vestibular"
+					},
+					{
+						"id": "podcast_eldorado_br_politico_chama",
+						"name": "BR Político Chama"
+					},
+					{
+						"id": "podcast_eldorado_criancas_que_leem",
+						"name": "Crianças que Leem"
+					},
+					{
+						"id": "podcast_eldorado_politica_sub_30",
+						"name": "Política Sub-30"
+					},
+					{
+						"id": "podcast_eldorado_choque_da_uva",
+						"name": "Choque da Uva"
+					}
+				]
+			},
+			{
+				"id": "redes_sociais_estadao",
+				"name": "Redes Sociais",
+				"children": [
+					{
+						"id": "redes_sociais_estadao_facebook_Estadão",
+						"name": "Facebook: Estadão"
 						},
-						{
-							"id": "podcast_estadao_legis_ativo",
-							"name": "Estadão Legis-Ativo"
+					{
+						"id": "redes_sociais_estadao_instagram_@estadao",
+						"name": "Instagram: @estadao"
 						},
-						{
-							"id": "podcast_estadao_esporte_clube",
-							"name": "Estadão Esporte Clube"
+					{
+						"id": "redes_sociais_estadao_youtube_Estadão",
+						"name": "Youtube: Estadão"
 						},
-						{
-							"id": "podcast_colunistas_eldorado_estadao",
-							"name": "Colunistas Eldorado Estadão"
-						},
-						{
-							"id": "podcast_estadao_santos",
-							"name": "Estadão Santos"
-						},
-						{
-							"id": "podcast_por_ai",
-							"name": "Por Aí"
-						},
-						{
-							"id": "podcast_estadao_palmeiras",
-							"name": "Estadão Palmeiras"
-						},
-						{
-							"id": "podcast_editorial_estadao",
-							"name": "Editorial Estadão"
-						},
-						{
-							"id": "podcast_estadao_noticias",
-							"name": "Estadão Notícias"
-						},
-						{
-							"id": "podcast_estadao_corinthians",
-							"name": "Estadão Corinthians"
-						},
-						{
-							"id": "podcast_estadao",
-							"name": "Estadão"
-						},
-						{
-							"id": "podcast_conexao_estadao",
-							"name": "Conexão Estadão"
-						},
-						{
-							"id": "podcast_mentalistas_estadao",
-							"name": "Mentalistas Estadão"
-						},
-						{
-							"id": "podcast_seu_bolso_estadao",
-							"name": "Seu Bolso Estadão"
-						}
-					]
-				},
-				{
-					"id": "redes_sociais_estadao",
-					"name": "Redes Sociais",
-					"children": [
-						{
-							"id": "redes_sociais_estadao_facebook_Estadão",
-							"name": "Facebook: Estadão"
-						},
-						{
-							"id": "redes_sociais_estadao_instagram_@estadao",
-							"name": "Instagram: @estadao"
-						},
-						{
-							"id": "redes_sociais_estadao_youtube_Estadão",
-							"name": "Youtube: Estadão"
-						},
-						{
-							"id": "redes_sociais_estadao_twitter",
-							"name": "Twitter",
-							"children": [
-								{
-									"id": "redes_sociais_estadao_twitter@Estadao",
-									"name": "@Estadao"
+					{
+						"id": "redes_sociais_estadao_twitter",
+						"name": "Twitter",
+						"children": [
+							{
+								"id": "redes_sociais_estadao_twitter@Estadao",
+								"name": "@Estadao"
 								},
-								{
-									"id": "redes_sociais_estadao_twitter@Paladar",
-									"name": "@Paladar"
+							{
+								"id": "redes_sociais_estadao_twitter@Paladar",
+								"name": "@Paladar"
 								},
-								{
-									"id": "redes_sociais_estadao_twitter@Emais_Estadao",
-									"name": "@Emais_Estadao"
+							{
+								"id": "redes_sociais_estadao_twitter@Emais_Estadao",
+								"name": "@Emais_Estadao"
 								},
-								{
-									"id": "redes_sociais_estadao_twitter@estadaoverifica",
-									"name": "@estadaoverifica"
+							{
+								"id": "redes_sociais_estadao_twitter@estadaoverifica",
+								"name": "@estadaoverifica"
 								}
 							]
 						}
 					]
-				}
-			]
-		},
-		{
-			"id": "agencia_estado",
-			"name": "Agência Estado",
-			"children": [
-				{
-					"id": "agencia_estado_produtos",
-					"name": " ",
-					"children": [
-						{
-							"id": "agencia_estado_produtos_broadcast+",
-							"name": "Broadcast+"
+			}
+		]
+	},
+	{
+		"id": "agencia_estado",
+		"name": "Agência Estado",
+		"children": [
+			{
+				"id": "agencia_estado_produtos",
+				"name": " ",
+				"children": [
+					{
+						"id": "agencia_estado_produtos_broadcast+",
+						"name": "Broadcast+"
 						},
-						{
-							"id": "agencia_estado_produtos_broadcast_agro",
-							"name": "Broadcast Agro"
+					{
+						"id": "agencia_estado_produtos_broadcast_agro",
+						"name": "Broadcast Agro"
 						},
-						{
-							"id": "agencia_estado_produtos_broadcast_político",
-							"name": "Broadcast Político"
+					{
+						"id": "agencia_estado_produtos_broadcast_político",
+						"name": "Broadcast Político"
 						},
-						{
-							"id": "agencia_estado_produtos_trading_news",
-							"name": "Trading News"
+					{
+						"id": "agencia_estado_produtos_trading_news",
+						"name": "Trading News"
 						},
-						{
-							"id": "agencia_estado_produtos_www.broadcast.com.br",
-							"name": "www.broadcast.com.br"
+					{
+						"id": "agencia_estado_produtos_www.broadcast.com.br",
+						"name": "www.broadcast.com.br"
 						}
 					]
 				},
-				{
-					"id": "agencia_estado_redes_sociais",
-					"name": "Redes Sociais",
-					"children": [
-						{
-							"id": "agencia_estado_redes_sociais_Twitter@agenciaestado+",
-							"name": "Twitter: @agenciaestado+"
+			{
+				"id": "agencia_estado_redes_sociais",
+				"name": "Redes Sociais",
+				"children": [
+					{
+						"id": "agencia_estado_redes_sociais_Twitter@agenciaestado+",
+						"name": "Twitter: @agenciaestado+"
 						},
-						{
-							"id": "agencia_estado_redes_sociais_Facebook:Agência Estado – Broadcast",
-							"name": "Facebook: Agência Estado – Broadcast"
+					{
+						"id": "agencia_estado_redes_sociais_Facebook:Agência Estado – Broadcast",
+						"name": "Facebook: Agência Estado – Broadcast"
 						},
-						{
-							"id": "agencia_estado_redes_sociais_linkedin: Agência Estado",
-							"name": "Linkedin: Agência Estado"
+					{
+						"id": "agencia_estado_redes_sociais_linkedin: Agência Estado",
+						"name": "Linkedin: Agência Estado"
 						},
-						{
-							"id": "agencia_estado_redes_sociais_instagram: @aebroadcast",
-							"name": "Instagram: @aebroadcast"
+					{
+						"id": "agencia_estado_redes_sociais_instagram: @aebroadcast",
+						"name": "Instagram: @aebroadcast"
 						}
 					]
 				}
 			]
-		},
-		{
-			"id": "radio_eldorado",
-			"name": "Rádio Eldorado",
-			"children": [
-				{
-					"id": "radio_eldorado_a_hora_da_vitrola",
-					"name": "A Hora da Vitrola"
+	},
+	{
+		"id": "radio_eldorado",
+		"name": "Rádio Eldorado",
+		"children": [
+			{
+				"id": "radio_eldorado_a_hora_da_vitrola",
+				"name": "A Hora da Vitrola"
 				},
-				{
-					"id": "radio_eldorado_a_moda_da_cidade",
-					"name": "A Moda da Cidade"
+			{
+				"id": "radio_eldorado_a_moda_da_cidade",
+				"name": "A Moda da Cidade"
 				},
-				{
-					"id": "radio_eldorado_black_to_black",
-					"name": "Black to Black"
+			{
+				"id": "radio_eldorado_black_to_black",
+				"name": "Black to Black"
 				},
-				{
-					"id": "radio_eldorado_canta_brasil",
-					"name": "Canta Brasil"
+			{
+				"id": "radio_eldorado_canta_brasil",
+				"name": "Canta Brasil"
 				},
-				{
-					"id": "radio_eldorado_chocolate_quente",
-					"name": "Chocolate Quente"
+			{
+				"id": "radio_eldorado_chocolate_quente",
+				"name": "Chocolate Quente"
 				},
-				{
-					"id": "radio_eldorado_cine_drops",
-					"name": "Cine Drops"
+			{
+				"id": "radio_eldorado_cine_drops",
+				"name": "Cine Drops"
 				},
-				{
-					"id": "radio_eldorado_cronica_da_cidade",
-					"name": "Crônica da Cidade"
+			{
+				"id": "radio_eldorado_diversao_eldorado",
+				"name": "Diversão Eldorado"
 				},
-				{
-					"id": "radio_eldorado_diversao_eldorado",
-					"name": "Diversão Eldorado"
+			{
+				"id": "radio_eldorado_edicao_limitada",
+				"name": "Edição Limitada"
 				},
-				{
-					"id": "radio_eldorado_edicao_limitada",
-					"name": "Edição Limitada"
+			{
+				"id": "radio_eldorado_eldorado_expresso",
+				"name": "Eldorado Expresso"
 				},
-				{
-					"id": "radio_eldorado_eldorado_expresso",
-					"name": "Eldorado Expresso"
+
+			{
+				"id": "radio_eldorado_fim_de_tarde",
+				"name": "Fim de Tarde"
 				},
-				{
-					"id": "radio_eldorado_eldorado_no_ar",
-					"name": "Eldorado no Ar"
+			{
+				"id": "radio_eldorado_jornal_eldorado",
+				"name": "Jornal Eldorado"
 				},
-				{
-					"id": "radio_eldorado_especiais_eldorado",
-					"name": "Especiais Eldorado"
+			{
+				"id": "radio_eldorado_marcas_e_consumidores",
+				"name": "Marcas e Consumidores"
 				},
-				{
-					"id": "radio_eldorado_fim_de_tarde",
-					"name": "Fim de Tarde"
+			{
+				"id": "radio_eldorado_marcas_e_consumidores",
+				"name": "Movimento Eldorado"
 				},
-				{
-					"id": "radio_eldorado_jornal_eldorado",
-					"name": "Jornal Eldorado"
+			{
+				"id": "radio_eldorado_navega_eldorado",
+				"name": "Navega Eldorado"
 				},
-				{
-					"id": "radio_eldorado_madrugada_eldorado",
-					"name": "Madrugada Eldorado"
+			{
+				"id": "radio_eldorado_mae_sem_manual",
+				"name": "Mãe sem Manual"
 				},
-				{
-					"id": "radio_eldorado_marcas_e_consumidores",
-					"name": "Marcas e Consumidores"
+			{
+				"id": "radio_eldorado_por_ai",
+				"name": "Por Aí"
 				},
-				{
-					"id": "radio_eldorado_minha_cancao",
-					"name": "Minha Canção"
+			{
+				"id": "radio_eldorado_pedro_em_serie",
+				"name": "Pedro em Série"
 				},
-				{
-					"id": "radio_eldorado_mundo_digital",
-					"name": "Mundo Digital"
+			{
+				"id": "radio_eldorado_quem_somos_nos",
+				"name": "Quem Somos Nós?"
 				},
-				{
-					"id": "radio_eldorado_mae_sem_manual",
-					"name": "Mãe sem Manual"
+			{
+				"id": "radio_eldorado_reserva_eldorado",
+				"name": "Reserva Eldorado"
 				},
-				{
-					"id": "radio_eldorado_musicas_praieiras",
-					"name": "Músicas Praieiras"
+			{
+				"id": "radio_eldorado_som_a_pino",
+				"name": "Som a Pino"
 				},
-				{
-					"id": "radio_eldorado_navega",
-					"name": "Navega"
+			{
+				"id": "radio_eldorado_start_eldorado",
+				"name": "Start Eldorado"
 				},
-				{
-					"id": "radio_eldorado_pedro_em_serie",
-					"name": "Pedro em Série"
-				},
-				{
-					"id": "radio_eldorado_por_a",
-					"name": "Por A"
-				},
-				{
-					"id": "radio_eldorado_qualidade_de_vida",
-					"name": "Qualidade de Vida"
-				},
-				{
-					"id": "radio_eldorado_quem_somos_nos",
-					"name": "Quem Somos Nós?"
-				},
-				{
-					"id": "radio_eldorado_reserva_eldorado",
-					"name": "Reserva Eldorado"
-				},
-				{
-					"id": "radio_eldorado_som_a_pino",
-					"name": "Som a Pino"
-				},
-				{
-					"id": "radio_eldorado_start",
-					"name": "Start"
-				},
-				{
-					"id": "radio_eldorado_trip_fm",
-					"name": "Trip FM"
+			{
+				"id": "radio_eldorado_trip_fm",
+				"name": "Trip FM"
 				}
 			]
-		}
-	]
+	}
+]
 }
