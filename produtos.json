@@ -396,7 +396,81 @@
 								},
 								{
 									"id": "subhome_newsletter",
-									"name": "Newsletter"
+									"name": "Newsletter",
+									"children": [
+										{
+											"id": "newsletter_acervo",
+											"name": "Acervo"
+										},
+										{
+											"id": "newsletter_brpolitico_analisa",
+											"name": "BR Político Analisa"
+										},
+										{
+											"id": "newsletter_brpolitico_fiquedeolho",
+											"name": "BR Político Fique de Olho"
+										},
+										{
+											"id": "newsletter_capitu",
+											"name": "Capitu"
+										},
+										{
+											"id": "newsletter_divirtase",
+											"name": "Divirta-se"
+										},
+										{
+											"id": "newsletter_emais",
+											"name": "E+"
+										},
+										{
+											"id": "newsletter_economia&negocios",
+											"name": "Economia & Negócios"
+										},
+										{
+											"id": "newsletter_esportes",
+											"name": "Esportes"
+										},
+										{
+											"id": "newsletter_estadao_noite",
+											"name": "Estadão Noite"
+										},
+										{
+											"id": "newsletter_hyperlink",
+											"name": "Hyperlink"
+										},
+										{
+											"id": "newsletter_jornaldocarro",
+											"name": "Jornal do Carro"
+										},
+										{
+											"id": "newsletter_maislidas",
+											"name": "Mais Lidas"
+										},
+										{
+											"id": "newsletter_manchetes",
+											"name": "Manchetes"
+										},
+										{
+											"id": "newsletter_paladar",
+											"name": "Paladar"
+										},
+										{
+											"id": "newsletter_pequenas_e_medias_empresas",
+											"name": "Pequenas e Médias Empresas"
+										},
+										{
+											"id": "newsletter_politica",
+											"name": "Política"
+										},
+										{
+											"id": "newsletter_saiba_agora",
+											"name": "Saiba Agora"
+										},
+										{
+											"id": "newsletter_viagem",
+											"name": "Viagem"
+										}
+									]
 								},
 								{
 									"id": "subhome_sudoku",
@@ -519,6 +593,18 @@
 								{
 									"id": "mobile_estadao_economia&negocios",
 									"name": "Estadão Economia & Negócios"
+								},
+								{
+									"id": "mobile_estadao_clubemais",
+									"name": "Clube+ Estadão"
+								},
+								{
+									"id": "mobile_estadao_medialab_estadao",
+									"name": "MediaLab Estadão"
+								},
+								{
+									"id": "mobile_estadao_meu_estadao",
+									"name": "meuEstadão"
 								}
 							]
 						}
