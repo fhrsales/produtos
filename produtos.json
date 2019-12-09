@@ -16,231 +16,27 @@
 						},
 						{
 							"id": "impresso_politica",
-							"name": "Política",
-							"children": [
-								{
-									"id": "eliane_catanhede",
-									"name": "Eliane Cantanhêde"
-								},
-								{
-									"id": "fernando_gabeira",
-									"name": "Fernando Gabeira"
-								},
-								{
-									"id": "joao_domingos",
-									"name": "João Domingos"
-								},
-								{
-									"id": "vera_magalhaes",
-									"name": "Vera Magalhães"
-								},
-								{
-									"id": "william_waack",
-									"name": "William Waack"
-								}
-							]
+							"name": "Política"
 						},
 						{
 							"id": "impresso_economia&negocios",
-							"name": "Economia & Negócios",
-							"children": [
-								{
-									"id": "adriana_fernandes",
-									"name": "Adriana Fernandes"
-								},
-								{
-									"id": "adriano_pires",
-									"name": "Adriano Pires"
-								},
-								{
-									"id": "afonso_celso_pastore",
-									"name": "Afonso Celso Pastore"
-								},
-								{
-									"id": "albert_fishlow",
-									"name": "Albert Fishlow"
-								},
-								{
-									"id": "ana_carla_abrao",
-									"name": "Ana Carla Abrão"
-								},
-								{
-									"id": "celso_ming",
-									"name": "Celso Ming"
-								},
-								{
-									"id": "cida_damasco",
-									"name": "Cida Damasco"
-								},
-								{
-									"id": "claudio_adilson_gonzalves",
-									"name": "Claudio Adilson Gonzalves"
-								},
-								{
-									"id": "elena_landau",
-									"name": "Elena Landau"
-								},
-								{
-									"id": "fabio_alves",
-									"name": "Fabio Alves"
-								},
-								{
-									"id": "gustavo_franco",
-									"name": "Gustavo Franco"
-								},
-								{
-									"id": "manoel_lemos",
-									"name": "Manoel Lemos"
-								},
-								{
-									"id": "mauricio_benvenutti",
-									"name": "Maurício Benvenutti"
-								},
-								{
-									"id": "monica_de_bolle",
-									"name": "Monica de Bolle"
-								},
-								{
-									"id": "paulo_leme",
-									"name": "Paulo Leme"
-								},
-								{
-									"id": "rodrigo_rodrigues",
-									"name": "Rodrigo Rodrigues (Agro)"
-								},
-								{
-									"id": "zeina_latif",
-									"name": "Zeina Latif"
-								}
-							]
+							"name": "Economia & Negócios"
 						},
 						{
 							"id": "impresso_internacional",
-							"name": "Internacional",
-							"children": [
-								{
-									"id": "antonio_penteado_mendonca",
-									"name": "Antonio Penteado Mendonça"
-								},
-								{
-									"id": "economist_em_portugues",
-									"name": "Economist em Português"
-								},
-								{
-									"id": "fareed_zakaria",
-									"name": "Fareed Zakaria"
-								},
-								{
-									"id": "gilles_lapouge",
-									"name": "Gilles Lapouge"
-								},
-								{
-									"id": "helio_gurovitz",
-									"name": "Helio Gurovitz"
-								},
-								{
-									"id": "lourival_sant'anna",
-									"name": "Lourival Sant'anna"
-								},
-								{
-									"id": "mario_vargas_llosa",
-									"name": "Mario Vargas Llosa"
-								},
-								{
-									"id": "moises_naim",
-									"name": "Moises Naim"
-								}
-							]
+							"name": "Internacional"
 						},
 						{
 							"id": "impresso_metropole",
-							"name": "Metrópole",
-							"children": [
-								{
-									"id": "daniel_martins_de_barros",
-									"name": "Daniel Martins de Barros (Saúde)"
-								},
-								{
-									"id": "fernando_reinach",
-									"name": "Fernando Reinach (Ciência)"
-								},
-								{
-									"id": "renata_cafardo",
-									"name": "Renata Cafardo (Educação)"
-								},
-								{
-									"id": "camila_farani",
-									"name": "Camila Farani"
-								},
-								{
-									"id": "demi_getschko",
-									"name": "Demi Getschko"
-								},
-								{
-									"id": "fabio_gallo",
-									"name": "Fabio Gallo (Seu Dinheiro)"
-								},
-								{
-									"id": "guy_perelmuter",
-									"name": "Guy Perelmuter"
-								},
-								{
-									"id": "pedro_doria",
-									"name": "Pedro Doria"
-								}
-							]
+							"name": "Metrópole"
 						},
 						{
 							"id": "impresso_esportes",
-							"name": "Esportes",
-							"children": [
-								{
-									"id": "mauro_cesar_pereira",
-									"name": "Mauro Cesar Pereira"
-								},
-								{
-									"id": "robson_morelli",
-									"name": "Robson Morelli"
-								},
-								{
-									"id": "ugo_giorgetti",
-									"name": "Ugo Giorgetti"
-								}
-							]
+							"name": "Esportes"
 						},
 						{
 							"id": "impresso_caderno2",
-							"name": "Caderno2",
-							"children": [
-								{
-									"id": "humberto_werneck",
-									"name": "Humberto Werneck"
-								},
-								{
-									"id": "ignacio_de_loyola_brandao",
-									"name": "Ignácio de Loyola Brandão"
-								},
-								{
-									"id": "leandro_karnal",
-									"name": "Leandro Karnal"
-								},
-								{
-									"id": "marcelo_rubens_paiva",
-									"name": "Marcelo Rubens Paiva"
-								},
-								{
-									"id": "roberto_damatta",
-									"name": "Roberto DaMatta"
-								},
-								{
-									"id": "sergio_augusto",
-									"name": "Sergio Augusto"
-								},
-								{
-									"id": "verissimo",
-									"name": "Veríssimo"
-								}
-							]
+							"name": "Caderno2"
 						},
 						{
 							"id": "impresso_viagem",
@@ -521,6 +317,316 @@
 					]
 				},
 				{
+					"id": "estadao_colunistas",
+					"name": "colunistas",
+					"children": [
+						{
+							"id": "colunistas_politica",
+							"name": "Política",
+							"children": [
+								{
+									"id": "colunistas_politica_carlos_pereira",
+									"name": "Carlos Pereira"
+								},
+								{
+									"id": "colunistas_politica_colunadoestadao",
+									"name": "Coluna do Estadão (Alberto Bombig)"
+								},
+								{
+									"id": "colunistas_politica_eliane_cantanhede",
+									"name": "Eliane Cantanhêde"
+								},
+								{
+									"id": "colunistas_politica_guzzo",
+									"name": "J.R.Guzzo"
+								},
+								{
+									"id": "colunistas_politica_rosangela_bittar",
+									"name": "Rosângela Bittar"
+								},
+								{
+									"id": "colunistas_politica_vera_magalhaes",
+									"name": "Vera Magalhães"
+								},
+								{
+									"id": "colunistas_politica_william_waack",
+									"name": "William Waack"
+								}
+							]
+						},
+						{
+							"id": "colunistas_internacional",
+							"name": "Internacional",
+							"children": [
+								{
+									"id": "colunistas_internacional_lapouge",
+									"name": "Gilles Lapouge"
+								},
+								{
+									"id": "colunistas_internacional_lourival",
+									"name": "Lourival Sant’Anna"
+								},
+								{
+									"id": "colunistas_internacional_llosa",
+									"name": "Mario Vargas Llosa"
+								},
+								{
+									"id": "colunistas_internacional_moises_naim",
+									"name": "Moisés Naím"
+								}
+							]
+						},
+						{
+							"id": "colunistas_economia",
+							"name": "Economia",
+							"children": [
+								{
+									"id": "colunistas_economia_adriana_fernandes",
+									"name": "Adriana Fernandes"
+								},
+								{
+									"id": "colunistas_economia_pastore",
+									"name": "Affonso Celso Pastore"
+								},
+								{
+									"id": "colunistas_economia_fishlow",
+									"name": "Albert Fishlow"
+								},
+								{
+									"id": "colunistas_economia_ana_carla_abrao",
+									"name": "Ana Carla Abrão"
+								},
+								{
+									"id": "colunistas_economia_antonio_penteado_de_mendonca",
+									"name": "Antonio Penteado de Mendonça"
+								},
+								{
+									"id": "colunistas_economia_celso_ming",
+									"name": "Celso Ming"
+								},
+								{
+									"id": "colunistas_economia_claudio_adilson_goncalvez",
+									"name": "Claudio Adilson Gonçalez"
+								},
+								{
+									"id": "colunistas_economia_coluna_broadcast",
+									"name": "Coluna do Broadcast"
+								},
+								{
+									"id": "colunistas_economia_coluna_broadcast_agro",
+									"name": "Coluna do Broadcast Agro"
+								},
+								{
+									"id": "colunistas_economia_elena_landau",
+									"name": "Elena Landau"
+								},
+								{
+									"id": "colunistas_economia_fabio_alves",
+									"name": "Fábio Alves"
+								},
+								{
+									"id": "colunistas_economia_fabio_gallo",
+									"name": "Fábio Gallo"
+								},
+								{
+									"id": "colunistas_economia_gustavo_franco",
+									"name": "Gustavo Franco"
+								},
+								{
+									"id": "colunistas_economia_guy_perelmuter",
+									"name": "Guy Perelmuter"
+								},
+								{
+									"id": "colunistas_economia_jose_roberto_mendonca_de_barros",
+									"name": "José Roberto Mendonça de Barros"
+								},
+								{
+									"id": "colunistas_economia_monica_de_bolle",
+									"name": "Monica De Bolle"
+								},
+								{
+									"id": "colunistas_economia_paulo_leme",
+									"name": "Paulo Leme"
+								},
+								{
+									"id": "colunistas_economia_pedro_fernando_nery",
+									"name": "Pedro Fernando Nery"
+								},
+								{
+									"id": "colunistas_economia_roberto_rodrigues",
+									"name": "Roberto Rodrigues"
+								},
+								{
+									"id": "colunistas_economia_zeina_latif",
+									"name": "Zeina Latif"
+								}
+							]
+						},
+
+						{
+							"id": "colunistas_metropole",
+							"name": "Metrópole",
+							"children": [
+								{
+									"id": "colunistas_metropole_daniel_martins_de_barros",
+									"name": "Daniel Martins de Barros"
+								},
+								{
+									"id": "colunistas_metropole_fernando_reinach",
+									"name": "Fernando Reinach"
+								},
+								{
+									"id": "colunistas_metropole_renata_cafardo",
+									"name": "Renata Cafardo"
+								},
+								{
+									"id": "colunistas_metropole_rosely_sayao",
+									"name": "Rosely Sayão"
+								}
+							]
+						},
+						{
+							"id": "colunistas_esportes",
+							"name": "Esportes",
+							"children": [
+								{
+									"id": "colunistas_esportes_robson_morelli",
+									"name": "Robson Morelli"
+								},
+								{
+									"id": "colunistas_esportes_mauro_cezar_pereira",
+									"name": "Mauro Cezar Pereira"
+								},
+								{
+									"id": "colunistas_esportes_ugo_giorgetti",
+									"name": "Ugo Giorgetti"
+								}
+							]
+					},
+						{
+							"id": "colunistas_caderno2",
+							"name": "Caderno 2",
+							"children": [
+								{
+									"id": "colunistas_caderno2_direto_da_fonte",
+									"name": "Direto da Fonte(Sônia Racy)"
+								},
+								{
+									"id": "colunistas_caderno2_humberto_werneck",
+									"name": "Humberto Werneck"
+								},
+								{
+									"id": "colunistas_caderno2_ignacio_de_loyola_brandao",
+									"name": "Ignácio de Loyola Brandão"
+								},
+								{
+									"id": "colunistas_caderno2_joao_wady_cury",
+									"name": "João Wady Cury"
+								},
+								{
+									"id": "colunistas_caderno2_leandro_karnal",
+									"name": "Leandro Karnal"
+								},
+								{
+									"id": "colunistas_caderno2_verissimo",
+									"name": "Luis Fernando Verissimo"
+								},
+								{
+									"id": "colunistas_caderno2_marcelo_rubens_paiva",
+									"name": "Marcelo Rubens Paiva"
+								},
+								{
+									"id": "colunistas_caderno2_quiroga",
+									"name": "Oscar Quiroga"
+								},
+								{
+									"id": "colunistas_caderno2_roberto_damatta",
+									"name": "Roberto DaMatta"
+								},
+								{
+
+									"id": "colunistas_caderno2_sergio_augusto",
+									"name": "Sérgio Augusto"
+								}
+							]
+					},
+						{
+							"id": "colunistas_link",
+							"name": "Link",
+							"children": [
+								{
+									"id": "colunistas_link_camila_farani",
+									"name": "Camila Farani"
+								},
+								{
+									"id": "colunistas_link_demi_getschko",
+									"name": "Demi Getschko"
+								},
+								{
+									"id": "colunistas_link_manoel_lemos",
+									"name": "Manoel Lemos"
+								},
+								{
+									"id": "colunistas_link_mauricio_benvenutti",
+									"name": "Maurício Benvenutti"
+								},
+								{
+									"id": "colunistas_link_pedro_doria",
+									"name": "Pedro Doria"
+								},
+								{
+									"id": "colunistas_link_silvio_meira",
+									"name": "Silvio Meira"
+								}
+							]
+					},
+						{
+							"id": "colunistas_viagem",
+							"name": "Viagem",
+							"children": [
+								{
+									"id": "colunistas_viagem_adriana_moreira",
+									"name": "Adriana Moreira"
+								},
+								{
+									"id": "colunistas_viagem_bruna_toni",
+									"name": "Bruna Toni"
+								},
+								{
+									"id": "colunistas_viagem_gilberto_amendola",
+									"name": "Gilberto Amendola"
+								},
+								{
+									"id": "colunistas_viagem_monica_nobrega",
+									"name": "Mônica Nobrega"
+								}
+							]
+					},
+						{
+							"id": "colunistas_paladar",
+							"name": "Paladar",
+							"children": [
+								{
+									"id": "colunistas_viagem_nhac!",
+									"name": "Nhac!(Neide Rigo)"
+								},
+								{
+									"id": "colunistas_viagem_prato_cabeca",
+									"name": "Prato-cabeça (Roberto Smeraldi)"
+								},
+								{
+									"id": "colunistas_viagem_prato_do_dia",
+									"name": "Prato do Dia (Patrícia Ferraz)"
+								},
+								{
+									"id": "colunistas_viagem_so_de_birra",
+									"name": "Só de Birra (Heloisa Lupinacci)"
+								}
+							]
+					}
+				]
+			},
+				{
 					"id": "apps",
 					"name": "Apps",
 					"children": [
@@ -609,7 +715,7 @@
 							]
 						}
 					]
-				},
+			},
 				{
 					"id": "podcast",
 					"name": "Podcast",
@@ -678,36 +784,301 @@
 					"name": "Redes Sociais",
 					"children": [
 						{
-							"id": "redes_sociais_estadao_facebook_Estadão",
-							"name": "Facebook: Estadão"
+							"id": "redes_sociais_estadao_facebook",
+							"name": "Facebook: https://www.facebook.com/estadao/",
+							"children": [
+								{
+									"id": "redes_sociais_estadao_facebook_politica",
+									"name": "Política Estadão: https://www.facebook.com/politicaestadao/"
+								},
+								{
+									"id": "redes_sociais_estadao_facebook_brpolitico",
+									"name": "BR Político: https://www.facebook.com/brpoliticoestadao/"
+								},
+								{
+									"id": "redes_sociais_estadao_facebook_economia",
+									"name": "Economia Estadão: https://www.facebook.com/economiaestadao/"
+								},
+								{
+									"id": "redes_sociais_estadao_facebook_metropole",
+									"name": "Metrópole Estadão: https://www.facebook.com/metropoleestadao/"
+								},
+								{
+									"id": "redes_sociais_estadao_facebook_esporte",
+									"name": "Estadão Esportes: https://www.facebook.com/estadaoesporte/"
+								},
+								{
+									"id": "redes_sociais_estadao_facebook_fera",
+									"name": "Fera: https://www.facebook.com/esportefera/"
+								},
+								{
+									"id": "redes_sociais_estadao_facebook_cultura",
+									"name": "Cultura Estadão: https://www.facebook.com/culturaestadao/"
+								},
+								{
+									"id": "redes_sociais_estadao_facebook_internacional",
+									"name": "Internacional Estadão: https://www.facebook.com/interestadao/"
+								},
+								{
+									"id": "redes_sociais_estadao_facebook_acervo",
+									"name": "Estadão Acervo: https://www.facebook.com/arquivoestadao/"
+								},
+								{
+									"id": "redes_sociais_estadao_facebook_paladar",
+									"name": "Paladar Estadão: https://www.facebook.com/paladarestadao/"
+								},
+								{
+									"id": "redes_sociais_estadao_facebook_link",
+									"name": "Link Estadão: https://www.facebook.com/linkestadao/"
+								},
+								{
+									"id": "redes_sociais_estadao_facebook_jornaldocarro",
+									"name": "Jornal do Carro: https://www.facebook.com/JornaldoCarro/"
+								},
+								{
+									"id": "redes_sociais_estadao_facebook_viagem",
+									"name": "Viagem Estadão: https://www.facebook.com/viagemestadao/"
+								},
+								{
+									"id": "redes_sociais_estadao_facebook_pme",
+									"name": "Estadão PME: https://www.facebook.com/estadaopme/"
+								},
+								{
+									"id": "redes_sociais_estadao_facebook_casa",
+									"name": "Casa Estadão: https://www.facebook.com/casaestadao/"
+								},
+								{
+									"id": "redes_sociais_estadao_facebook_emais",
+									"name": "Emais Estadão: https://www.facebook.com/emaisestadao/"
+								},
+								{
+									"id": "redes_sociais_estadao_facebook_divirtase",
+									"name": "Divirta-se Estadão: https://www.facebook.com/divirtase/"
+								},
+								{
+									"id": "redes_sociais_estadao_facebook_alias",
+									"name": "Aliás Estadão: https://www.facebook.com/aliasestadao/"
+								},
+								{
+									"id": "redes_sociais_estadao_facebook_ciencia",
+									"name": "Ciência, Saúde e Sustentabilidade: https://www.facebook.com/vidaestadao/"
+								},
+								{
+									"id": "redes_sociais_estadao_facebook_colunadoestadao",
+									"name": "Coluna do Estadão: https://www.facebook.com/colunadoestadao"
+								},
+								{
+									"id": "redes_sociais_estadao_facebook_ciencia",
+									"name": "Ciência, Saúde e Sustentabilidade: https://www.facebook.com/vidaestadao/"
+								},
+								{
+									"id": "redes_sociais_estadao_facebook_focas",
+									"name": "Cursos Estado de Jornalismo(Focas): https://www.facebook.com/CursosEstadoDeJornalismo/"
+								},
+								{
+									"id": "redes_sociais_estadao_facebook_classempregos",
+									"name": "Estadão Empregos & Carreiras: https://www.facebook.com/estadaoempregos/"
+								},
+								{
+									"id": "redes_sociais_estadao_facebook_classimoveis",
+									"name": "Estadão Imóveis: https://www.facebook.com/EstadaoImoveis/"
+								},
+								{
+									"id": "redes_sociais_estadao_facebook_medialab",
+									"name": "MediaLab Estadão: https://www.facebook.com/medialabestadao/"
+								},
+								{
+									"id": "redes_sociais_estadao_facebook_estradao",
+									"name": "Estradão: https://www.facebook.com/estradao.estadao/"
+								}
+							]
 						},
 						{
 							"id": "redes_sociais_estadao_instagram_@estadao",
-							"name": "Instagram: @estadao"
+							"name": "Instagram: @estadao",
+							"children": [
+								{
+									"id": "redes_sociais_estadao_instagram_@estadaocultura",
+									"name": "@estadaocultura"
+								},
+								{
+									"id": "redes_sociais_estadao_instagram_@estadaoesporte",
+									"name": "@estadaoesporte"
+								},
+								{
+									"id": "redes_sociais_estadao_instagram_@esportefera",
+									"name": "@esportefera"
+								},
+								{
+									"id": "redes_sociais_estadao_instagram_@brpoliticoestadao",
+									"name": "@brpoliticoestadao"
+								},
+								{
+									"id": "redes_sociais_estadao_instagram_@emaisestadao",
+									"name": "@emaisestadao"
+								},
+								{
+									"id": "redes_sociais_estadao_instagram_@estadaopme",
+									"name": "@estadaopme"
+								},
+								{
+									"id": "redes_sociais_estadao_instagram_@viagemestadao",
+									"name": "@viagemestadao"
+								},
+								{
+									"id": "redes_sociais_estadao_instagram_@paladar",
+									"name": "@paladar"
+								},
+								{
+									"id": "redes_sociais_estadao_instagram_@casaestadao",
+									"name": "@casaestadao"
+								},
+								{
+									"id": "redes_sociais_estadao_instagram_@jornaldocarro",
+									"name": "@jornaldocarro"
+								},
+								{
+									"id": "redes_sociais_estadao_instagram_@sigacapitu",
+									"name": "@sigacapitu"
+								},
+								{
+									"id": "redes_sociais_estadao_instagram_@tvestadao",
+									"name": "@tvestadao"
+								},
+								{
+									"id": "redes_sociais_estadao_instagram_@estadaodivirtase",
+									"name": "@estadaodivirtase"
+								},
+								{
+									"id": "redes_sociais_estadao_instagram_@estadaoacervo",
+									"name": "@estadaoacervo"
+								},
+								{
+									"id": "redes_sociais_estadao_instagram_@focaestadao",
+									"name": "@focaestadao"
+								},
+								{
+									"id": "redes_sociais_estadao_instagram_@choquedauvapod",
+									"name": "@choquedauvapod"
+								},
+								{
+									"id": "redes_sociais_estadao_instagram_@linkestadao",
+									"name": "@linkestadao"
+								},
+								{
+									"id": "redes_sociais_estadao_instagram_@colunadoestadao",
+									"name": "@colunadoestadao"
+								},
+								{
+									"id": "redes_sociais_estadao_instagram_@colunadiretodafonte",
+									"name": "@colunadiretodafonte"
+								},
+								{
+									"id": "redes_sociais_estadao_instagram_@estadaoimoveis",
+									"name": "@estadaoimoveis"
+								},
+								{
+									"id": "redes_sociais_estadao_instagram_@medialabestadao",
+									"name": "@medialabestadao"
+								},
+								{
+									"id": "redes_sociais_estadao_instagram_@babelestadao",
+									"name": "@babelestadao"
+								},
+								{
+									"id": "redes_sociais_estadao_instagram_@estradao.estadao",
+									"name": "@estradao.estadao"
+								}
+							]
 						},
 						{
-							"id": "redes_sociais_estadao_youtube_Estadão",
-							"name": "Youtube: Estadão"
+							"id": "redes_sociais_estadao_youtube",
+							"name": "Youtube: https://www.youtube.com/user/estadao"
+						},
+						{
+							"id": "redes_sociais_estadao_linkedin",
+							"name": "Linkedin: http: //linkedin.com/company/Estadão"
 						},
 						{
 							"id": "redes_sociais_estadao_twitter",
 							"name": "Twitter",
 							"children": [
 								{
-									"id": "redes_sociais_estadao_twitter@Estadao",
-									"name": "@Estadao"
+									"id": "redes_sociais_estadao_twitter@estadao",
+									"name": "@estadao"
 								},
 								{
-									"id": "redes_sociais_estadao_twitter@Paladar",
-									"name": "@Paladar"
+									"id": "redes_sociais_estadao_twitter@estadaocultura",
+									"name": "@estadaocultura"
 								},
 								{
-									"id": "redes_sociais_estadao_twitter@Emais_Estadao",
-									"name": "@Emais_Estadao"
+									"id": "redes_sociais_estadao_twitter@estadaopolitica",
+									"name": "@estadaopolitica"
+								},
+								{
+									"id": "redes_sociais_estadao_twitter@brpolitico",
+									"name": "@brpolitico"
+								},
+								{
+									"id": "redes_sociais_estadao_twitter@emais_estadao",
+									"name": "@emais_estadao"
+								},
+								{
+									"id": "redes_sociais_estadao_twitter@colunadoestadao",
+									"name": "@colunadoestadao"
 								},
 								{
 									"id": "redes_sociais_estadao_twitter@estadaoverifica",
 									"name": "@estadaoverifica"
+								},
+								{
+									"id": "redes_sociais_estadao_twitter@esportefera",
+									"name": "@esportefera"
+								},
+								{
+									"id": "redes_sociais_estadao_twitter@estadaointer",
+									"name": "@estadaointer"
+								},
+								{
+									"id": "redes_sociais_estadao_twitter@estadaosaopaulo",
+									"name": "@estadaosaopaulo"
+								},
+								{
+									"id": "redes_sociais_estadao_twitter@estadaoedu",
+									"name": "@estadaoedu"
+								},
+								{
+									"id": "redes_sociais_estadao_twitter@estadaoesporte",
+									"name": "@estadaoesporte"
+								},
+								{
+									"id": "redes_sociais_estadao_twitter@estadaolink",
+									"name": "@estadaolink"
+								},
+								{
+									"id": "redes_sociais_estadao_twitter@estadaoeconomia",
+									"name": "@estadaoeconomia"
+								},
+								{
+									"id": "redes_sociais_estadao_twitter@Paladar",
+									"name": "@estadaopaladar"
+								},
+
+								{
+									"id": "redes_sociais_estadao_twitter@sigacapitu",
+									"name": "@sigacapitu"
+								},
+								{
+									"id": "redes_sociais_estadao_twitter@EstadaoViagem",
+									"name": "@EstadaoViagem"
+								},
+								{
+									"id": "redes_sociais_estadao_twitter@EstadaoAcervo",
+									"name": "@EstadaoAcervo"
+								},
+								{
+									"id": "redes_sociais_estadao_twitter@estadaopme",
+									"name": "@estadaopme"
 								}
 							]
 						}
@@ -750,16 +1121,45 @@
 					"name": "Redes Sociais",
 					"children": [
 						{
-							"id": "agencia_estado_redes_sociais_Twitter@agenciaestado+",
-							"name": "Twitter: @agenciaestado+"
+							"id": "agencia_estado_redes_sociais_Twitter",
+							"name": "Twitter",
+							"children": [
+								{
+									"id": "agencia_estado_redes_sociais_Twitter@AgenciaEstado",
+									"name": "@AgenciaEstado"
+								},
+								{
+									"id": "agencia_estado_redes_sociais_Twitter@colunadobroad",
+									"name": "@colunadobroad"
+								},
+								{
+									"id": "agencia_estado_redes_sociais_Twitter@broadpolitico",
+									"name": "@broadpolitico"
+								},
+								{
+									"id": "agencia_estado_redes_sociais_Twitter@BroadcastAgro",
+									"name": "@BroadcastAgro"
+								}
+							]
 						},
 						{
-							"id": "agencia_estado_redes_sociais_Facebook:Agência Estado – Broadcast",
-							"name": "Facebook: Agência Estado – Broadcast"
-						},
-						{
-							"id": "agencia_estado_redes_sociais_linkedin: Agência Estado",
-							"name": "Linkedin: Agência Estado"
+							"id": "agencia_estado_redes_sociais_facebook",
+							"name": "Facebook",
+							"children": [
+								{
+									"id": "agencia_estado_redes_sociais_facebook_broadcast",
+									"name": "Agência Estado-Broadcast: https://www.facebook.com/Aebroadcast/"
+								},
+								{
+									"id": "agencia_estado_redes_sociais_facebook_broadcastpolitico",
+									"name": "Broadcast Político: https://www.facebook.com/broadcastpolitico"
+								},
+								{
+									"id": "agencia_estado_redes_sociais_facebook_broadcastagro",
+									"name": "Broadcast Agro: https://www.facebook.com/BroadcastAgro"
+								}
+							]
+
 						},
 						{
 							"id": "agencia_estado_redes_sociais_instagram: @aebroadcast",
@@ -809,7 +1209,6 @@
 					"id": "radio_eldorado_eldorado_expresso",
 					"name": "Eldorado Expresso"
 				},
-
 				{
 					"id": "radio_eldorado_fim_de_tarde",
 					"name": "Fim de Tarde"
@@ -823,7 +1222,7 @@
 					"name": "Marcas e Consumidores"
 				},
 				{
-					"id": "radio_eldorado_marcas_e_consumidores",
+					"id": "radio_eldorado_movimento_eldorado",
 					"name": "Movimento Eldorado"
 				},
 				{
@@ -861,6 +1260,24 @@
 				{
 					"id": "radio_eldorado_trip_fm",
 					"name": "Trip FM"
+				},
+				{
+					"id": "redes_sociais_radio_eldorado",
+					"name": "Redes sociais",
+					"children": [
+						{
+							"id": "redes_sociais_radio_eldorado_facebook",
+							"name": "Facebook: https: //www.facebook.com/radioeldorado/"
+						},
+						{
+							"id": "redes_sociais_radio_eldorado_twitter",
+							"name": "Twitter: @eldoradoradio"
+						},
+						{
+							"id": "redes_sociais_radio_eldorado_instagram",
+							"name": "Instagram: @eldoradoradio"
+						}
+					]
 				}
 			]
 	}
